@@ -1,0 +1,45 @@
+body {
+  background-color: #507DBC;
+}
+
+div {
+  text-align: center;
+}
+
+#comment {
+  font-family: fantasy;
+  color: #F3FFBD;
+  text-align: center;
+}
+
+#guess{
+
+}
+ #hint {
+   color: black;
+   font-family: serif;
+   font-size: 24pt;
+ }
+
+a:hover{
+  background-color: yellow;
+}
+
+a:visited{
+  background-color: #FF1B1C;
+}
+
+#guessButton{
+  color: pink;
+  background-color: blue;
+  border: 0pt
+
+
+}
+
+#lastGuess {
+  list-style: none;
+  font-size: 24pt;
+  color: #D1DDDA;
+
+}
